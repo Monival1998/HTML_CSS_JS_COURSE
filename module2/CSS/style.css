@@ -15,6 +15,7 @@ div.h2{
  background-color: #FEAE63;
  float: right;
  box-sizing: content-box;
+  clear: both;
    
 }
 
