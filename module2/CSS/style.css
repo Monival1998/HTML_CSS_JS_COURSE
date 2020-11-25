@@ -5,6 +5,17 @@ h1 {
   width:bold;
   align:center;
 }
+div.h1{
+ background-color: #F0DCFC
+}
+
+div.h2{
+ background-color: #FEAE63
+}
+
+div.h3{
+ background-color: #FF8989
+}
 
 h2{
   color: green; 
