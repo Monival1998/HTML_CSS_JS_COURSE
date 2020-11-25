@@ -1,1 +1,11 @@
+div > p {
+  color:blue;
+}
+h1 {
+  width:bold;
+  align:center;
+}
 
+h2{
+  color: green; 
+}
